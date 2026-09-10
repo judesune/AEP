@@ -319,7 +319,7 @@ Possui informações como:
 
 O diagrama UML representa as principais entidades e seus relacionamentos.
 
-![Diagrama de Classes](docs/diagrama-classes.png)
+![Diagrama de Classes](https://github.com/judesune/EcoLog-Alimentos/blob/main/docs/Diagrama%20de%20Classes%20UML.pdf)
 
 ---
 
@@ -358,7 +358,7 @@ ON DELETE CASCADE
 
 # 🗃️ Diagrama Entidade-Relacionamento
 
-![DER](docs/der.png)
+![DER](https://github.com/judesune/EcoLog-Alimentos/blob/main/docs/DER.pdf)
 
 ---
 
@@ -399,8 +399,9 @@ AEP/
 │   └── schema.sql
 │
 ├── docs/
-│   ├── diagrama-classes.png
-│   └── der.png
+│   ├── Diagrama de Classes UML.pdf
+│   ├── DER.pdf
+│   └── EcoLog Alimentos.pdf
 │
 ├── README.md
 │
@@ -433,7 +434,7 @@ O Java permite que o projeto seja executado em diferentes sistemas operacionais 
 | ---------- | -------------------------------------------- | ---------- | --------------- |
 | 06/09/2026 | Definição da ODS 2.1, escopo e requisitos    | 1ª Entrega | Vitor           |
 | 07/09/2026 | Modelagem do Diagrama de Classes UML e DER   | 1ª Entrega | João            |
-| 09/09/2026 | Justificativa técnica, GitHub e documentação | 1ª Entrega | Juliano         |
+| 10/09/2026 | Justificativa técnica, GitHub e documentação | 1ª Entrega | Juliano         |
 | 15/10/2026 | Script MySQL e configuração JDBC             | 2ª Entrega | Juliano e João  |
 | 25/10/2026 | Implementação das classes e conceitos de POO | 2ª Entrega | Vitor e João    |
 | 25/10/2026 | Implementação do CRUD de OrdemTransporte     | 2ª Entrega | Vitor e Juliano |
@@ -472,4 +473,4 @@ O projeto possui finalidade acadêmica e busca aplicar conceitos de:
 
 ## 🔗 Repositório
 
-[GitHub — EcoLog Alimentos](https://github.com/judesune/AEP)
+[GitHub — EcoLog Alimentos](https://github.com/judesune/EcoLog-Alimentos)
